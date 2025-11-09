@@ -1,0 +1,13 @@
+node_modules
+dist
+.DS_Store
+/infra/.terraform
+/infra/.terraform.lock.hcl
+/infra/bootstrap/.terraform
+/frontend/node_modules
+/backend/node_modules
+/frontend/dist
+/backend/dist/main.js
+/backend/dist/main.zip
+.env
+.env.*
